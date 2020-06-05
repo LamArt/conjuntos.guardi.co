@@ -488,6 +488,10 @@ a {
   background-color: #fff;
 }
 
+.bg-black {
+  background-color: #282828;
+}
+
 .bg-gradient {
   background-image: -webkit-gradient(linear, left top, left bottom, color-stop(25%, #fff), to(hsla(0, 0%, 100%, 0)));
   background-image: linear-gradient(180deg, #fff 25%, hsla(0, 0%, 100%, 0));
@@ -638,12 +642,16 @@ a {
   color: #fff;
 }
 
+.text-drk-white {
+  color: #d7d7d7;
+}
+
 .faded {
   opacity: 0.5;
 }
 
 .border-t {
-  border-top: 1px solid #e9ecef;
+  border-top: 1px solid #3a3a3a;
 }
 
 .dropdown-toggle {
