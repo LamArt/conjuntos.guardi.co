@@ -178,6 +178,13 @@ a {
   color: #212529;
 }
 
+.logo.footer {
+  height: 72px;
+  padding-top: 11px;
+  padding-bottom: 11px;
+  font-size: 36px;
+}
+
 .emoji {
   display: -webkit-box;
   display: -webkit-flex;
@@ -329,7 +336,7 @@ a {
   -ms-flex-align: center;
   align-items: center;
   border-radius: 8px;
-  background-color: #edf2ff;
+  background-color: #E3FFC6;
   color: #364fc7;
   font-weight: 600;
 }
@@ -473,7 +480,7 @@ a {
 }
 
 .section.main {
-  background-color: #4263eb;
+  background-color: #315E48;
   color: #fff;
 }
 
@@ -505,6 +512,12 @@ a {
 .text-lg {
   font-size: 24px;
   line-height: 140%;
+}
+
+.text-lg-ticklist {
+  font-size: 24px;
+  line-height: 140%;
+  color: #73B542;
 }
 
 .links {
@@ -598,7 +611,7 @@ a {
   height: 300%;
   margin-left: -100%;
   border-radius: 100%;
-  background-color: #edf2ff;
+  background-color: #E3FFC6;
 }
 
 .mt-2xl-n {
@@ -657,7 +670,7 @@ a {
 }
 
 .dropdown-link:hover {
-  background-color: #edf2ff;
+  background-color: #E3FFC6;
 }
 
 .avatar {
